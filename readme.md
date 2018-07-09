@@ -25,7 +25,7 @@
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/13 - Naming Lines in CSS Grid/naming-lines.html" target="_blank">13 - Naming Lines in CSS Grid</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/14 - grid-auto-flow dense Block Fitting/dense.html" target="_blank">14 - grid-auto-flow dense Block Fitting</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/15 - CSS Grid Alignment + Centering/alignment-and-centering.html" target="_blank">15 - CSS Grid Alignment + Centering</a></li>
-  <li><a href="http://jscoding.club:8081/css-grid-in-depth/16- Re-ordering Grid Items/order.html" target="_blank">16- Re-ordering Grid Items</a></li>
+  <li><a href="http://jscoding.club:8081/css-grid-in-depth/16 - Re-ordering Grid Items/order.html" target="_blank">16- Re-ordering Grid Items</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/17 - Nesting Grid with Album Layouts/albums.html" target="_blank">17 - Nesting Grid with Album Layouts</a></li>
 </ul>
 

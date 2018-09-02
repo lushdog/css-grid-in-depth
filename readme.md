@@ -14,8 +14,8 @@
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/02%20-%20CSS%20Grid%20Dev%20Tools/Line%20Meanings.png" target="_blank">02 - CSS Grid Dev Tools</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/03%20-%20CSS%20Grid%20Implicit%20vs%20Explicit%20Tracks/implicit-vs-explicit.html" target="_blank">03 - CSS Grid Implicit vs Explicit Tracks</a> </li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/04%20-%20CSS%20grid-auto-flow%20Explained/autoflow.html" target="_blank">04 - CSS grid-auto-flow Explained</a></li>
-  <li><a href="http://jscoding.club:8081/css-grid-in-depth05 - Sizing tracks in CSS Grid/sizing-track.html" target="_blank">05 - Sizing tracks in CSS Grid</a></li>
-  <li><a href="http://jscoding.club:8081/css-grid-in-depth/06 - CSS Grid repeat functiond/repeat.html" target="_blank">06 - CSS Grid repeat function</a></li>
+  <li><a href="http://jscoding.club:8081/css-grid-in-depth/05 - Sizing tracks in CSS Grid/sizing-track.html" target="_blank">05 - Sizing tracks in CSS Grid</a></li>
+  <li><a href="http://jscoding.club:8081/css-grid-in-depth/06 - CSS Grid repeat function/repeat.html" target="_blank">06 - CSS Grid repeat function</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/07 - Sizing Grid Items/sizing-items.html" target="_blank">07 - Sizing Grid Items</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/08 - Placing Grid Items/placing.html" target="_blank">08 - Placing Grid Items</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/09 - Spanning and Placing Cardio/get-sweaty.html" target="_blank">09 - Spanning and Placing Cardio</a></li>

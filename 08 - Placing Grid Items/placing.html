@@ -58,11 +58,13 @@
       /* 结束位置 */
       /* grid-column-end: 5; */
       /* 第一列开始 占两列 */
-      /* grid-column: 1 / span 2;  */
+      /* grid-column: 2 / span 2;  */
+      /* 第一列开始 第五列结束 */
+      /* grid-column: 2 / 5  */
       /* 负数表示倒数第几列 */
       /* grid-column: 1 / -1; */
       grid-column: 1 / span 2;
-      /* 行位置  只有指定grid-template-rows 结束位置负数才有效 */
+      /* 行位置  只有指定grid-template-rows 结束位置负数才有效 。结束位置只到explicit tracks !! */
       grid-row: 1 / -1;
     }
   </style>

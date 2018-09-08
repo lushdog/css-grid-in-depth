@@ -27,5 +27,6 @@
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/15 - CSS Grid Alignment + Centering/alignment-and-centering.html" target="_blank">15 - CSS Grid Alignment + Centering</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/16 - Re-ordering Grid Items/order.html" target="_blank">16 - Re-ordering Grid Items</a></li>
   <li><a href="http://jscoding.club:8081/css-grid-in-depth/17 - Nesting Grid with Album Layouts/albums.html" target="_blank">17 - Nesting Grid with Album Layouts</a></li>
+  <li><a href="http://jscoding.club:8081/css-grid-in-depth/18 - Flexbox vs CSS Grid/" target="_blank">18 - Flexbox vs CSS Grid</a></li>
 </ul>
 
